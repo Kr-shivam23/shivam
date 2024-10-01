@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Functional">
+<test name="functional">
+<classes>
+<class name="batchexecution.Functional"/>
+
+
+
+</classes>
+</test>
+</suite>

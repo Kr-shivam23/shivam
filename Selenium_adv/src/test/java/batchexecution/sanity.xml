@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sanity">
+<test name="sanity">
+<classes>
+<class name="batchexecution.Sanity"/>
+
+
+
+</classes>
+</test>
+</suite>

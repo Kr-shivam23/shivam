@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="masterTestSuite">
+
+<suite-files>
+		
+		<suite-file path="C:\Users\Administrator\eclipse-workspace\Selenium_adv\src\test\java\batchexecution\sanity.xml"/>
+		<suite-file path="C:\Users\Administrator\eclipse-workspace\Selenium_adv\src\test\java\batchexecution\Smoke.xml"/>
+		<suite-file path="C:\Users\Administrator\eclipse-workspace\Selenium_adv\src\test\java\batchexecution\functional.xml"/>
+		
+		
+</suite-files>
+</suite>
